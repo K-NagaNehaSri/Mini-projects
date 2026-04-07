@@ -1,63 +1,46 @@
-# Mini-projects
-Since you're building a portfolio to showcase your progress from basic Python to Data Science tools like Pandas and Matplotlib, your README should tell a story of growth.
+# 🚀 Python Mini Projects Collection
 
-Here is a clean, professional template. I’ve organized it so the most "advanced" work (Data Science) is at the top, as that usually catches a recruiter's eye first.
+A collection of functional Python applications and data analysis projects. This repository tracks my transition from core programming logic to data visualization and analytics.
 
-🚀 Python Mini Projects Collection
-A collection of functional Python applications and data analysis projects developed during my B.Tech journey. This repository tracks my transition from core programming logic to data visualization and analytics.
+---
 
-📊 1. Data Visualization with Matplotlib & Pandas
-Description: An analytical project focused on processing raw data and turning it into actionable insights. This project demonstrates the ability to handle datasets, clean data using Pandas, and create professional-grade visualizations.
+## 📊 1. Data Visualization with Matplotlib & Pandas
+**Description:** An analytical project focused on processing raw data and turning it into actionable insights using DataFrames and statistical analysis.
 
-Key Features:
+* **Key Features:** Data cleaning, Mean/Median trends, and professional-grade visualizations.
+* **Tech Stack:** Python, Pandas, Matplotlib, NumPy.
 
-Data cleaning and manipulation using DataFrames.
+---
 
-Statistical analysis (Mean, Median, Trends).
+## 💰 2. Personal Expense Tracker
+**Description:** A practical tool designed to help users manage their daily finances with CRUD operations and file handling.
 
-Visualizations: Line charts for trends, Bar graphs for comparisons, and Pie charts for distribution.
+* **Key Features:** Expense logging, Budgeting alerts, and Data Persistence via CSV.
+* **Tech Stack:** Python, CSV Module, Datetime.
 
-Tech Stack: Python, Pandas, Matplotlib, NumPy.
+---
 
-💰 2. Personal Expense Tracker
-Description: A practical tool designed to help users manage their daily finances. This was my foundational project focusing on CRUD (Create, Read, Update, Delete) operations and file handling.
-
-Key Features:
-
-Expense Logging: Input daily expenses with categories (Food, Travel, etc.).
-
-Budgeting: Set monthly limits and receive alerts.
-
-Data Persistence: Saves all data to a .csv or .txt file so information isn't lost when the program closes.
-
-Tech Stack: Python, CSV Module, Datetime.
-
-🛠️ Installation & Setup
+## 🛠️ Installation & Setup
 To run any of these projects locally:
 
-Clone the repository:
+### 1. Clone the repository
+```bash
+git clone [https://github.com/K-NagaNehaSri/mini-projects.git](https://github.com/K-NagaNehaSri/mini-projects.git)
 
-Bash
-git clone https://github.com/K-NagaNehaSri/mini-projects.git
-Install dependencies:
-
-Bash
 pip install pandas matplotlib
-Run the script:
 
-Bash
-python project_name.py
-📈 Learning Roadmap
-[x] Basic Python Logic & Loops.
+python project_name.py ```
 
-[x] File Handling & Data Persistence.
+Learning Roadmap
+[x] Basic Python Logic & Loops
 
-[x] Data Analysis with Pandas.
+[x] File Handling & Data Persistence
 
-[ ] Exploratory Data Analysis (EDA) on real-world datasets.
+[x] Data Analysis with Pandas
 
-[ ] Integrating a GUI using Tkinter or Streamlit.
+[ ] Exploratory Data Analysis (EDA) on real-world datasets
 
+[ ] Integrating a GUI using Tkinter or Streamlit
 ✍️ Author
 
 For questions or suggestions, feel free to reach out:
